@@ -1,0 +1,3 @@
+C:\d\git_prb\proba2 
+Ezt a fájlt nem fogom indexálni avagy stage-elni (add), hozzáadni a repo-hoz (commit) és a külső repóhoz (push).
+
