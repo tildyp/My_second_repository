@@ -14,4 +14,6 @@ for ii in range(2, n_vizsg+1):
     for jj in n_list:
         if jj%ii==0 and jj>ii:
             n_list.remove(jj)
+
+#Ez meg mi a szar?
     
